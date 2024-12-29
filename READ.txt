@@ -1,0 +1,7 @@
+Aqui tenemos un simple CLUD con Javascript y una api de prueba JSONSERVER.
+
+Para instalar la base de datos en tu pc:
+
+1- Tener NodeJs instalado.
+2- npm install json-server
+3- json-server --watch db.json
